@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.0"
+  version: "0.5.0"
 
 package:
   name: mrtree-rs
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/apcamargo/mrtree-rs/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 336fe2754a4fcc641ab1080fefebac79260561c4f6cf4805765d630c2fd296d2
+  sha256: 6fed875ba0fa094fe6c46dee138cdc5844ab9319aa347a325ad4bbb2374bd2b9
 
 build:
   number: 0
